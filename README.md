@@ -12,4 +12,4 @@ It then generates 3 files.
 Usage
 =====
 
-`python convertBleiFormat.py <path to folder where corpus files are stored> <path to output folder>`
+`python convertBleiFormat.py <path to corpus folder> <path to output folder>`
